@@ -1,0 +1,32 @@
+QPushButton#ModeButton {
+    border-radius: 4px;
+}
+
+QPushButton#ModeButton:checked {
+    background: rgb(0, 170, 229)
+}
+
+QSlider::groove:horizontal {
+    background: black;
+    border: none;
+    height: 6px;
+    border-radius: 4px;
+}
+
+QSlider::sub-page:horizontal {
+    background: rgb(80, 80, 80)
+}
+
+QSlider::handle:horizontal {
+    background-color: rgb(80, 80, 80);
+    border: 2px solid rgb(180, 180, 180);
+    width: 8px;
+    margin-top: -3px;
+    margin-bottom: -3px;
+    border-radius: 6px;
+}
+
+QSlider::handle:horizontal:hover {
+    width: 6px;
+    border: 3px solid rgb(200,200,200);
+}
