@@ -8,7 +8,9 @@ Houdiniにデフォルトで入ってるアイコンを一覧化し、検索、�
 
 **Code > Download ZIP**からZIPファイルをダウンロードしてください。
 
-解凍したフォルダ内のscriptsフォルダとpython_panelsフォルダを環境変数HOUDINI_PATHが通ってる場所、もしくドキュメント内のHoudiniフォルダへコピーしてください。
+解凍したフォルダ内のpython_panelsフォルダとscriptsフォルダを環境変数HOUDINI_PATHが通ってる場所、もしくドキュメント内のHoudiniフォルダへコピーしてください。
+
+![DownloadFile](https://user-images.githubusercontent.com/50489494/208280543-060010e5-b6c5-45c0-8b3d-1367da2d1cf9.png)
 
 ## スクリプトの起動
 
