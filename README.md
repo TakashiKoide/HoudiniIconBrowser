@@ -16,6 +16,8 @@ Houdiniにデフォルトで入ってるアイコンを一覧化し、検索、�
 
 Houdiniを起動し、パネルタブを右クリックするとパネル一覧にIcon Browserが登録されてるので、選んでください。
 
+![IconBrowserRun](https://user-images.githubusercontent.com/50489494/208281466-30245413-5256-490b-aa19-11bc38b7c6b8.gif)
+
 ## 機能
 
 ### ダブルクリック
